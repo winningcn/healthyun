@@ -1,0 +1,369 @@
+/**
+ * ===============================
+ *  Defult CSS 
+ * ===============================
+ */
+p {
+  color: rgba(0, 0, 0, 0.9);
+}
+/**
+ * ===============================
+ *  Section Heading Section Defult Style 
+ * ===============================
+ */
+.section-heading {
+  color: rgba(0, 0, 0, 0.9);
+}
+.section-heading:after {
+  background: url('../../../images/shape-skyBlue.png');
+}
+.section-header .section-heading-normal {
+  color: rgba(0, 0, 0, 0.9);
+}
+.section-header p {
+  color: rgba(0, 0, 0, 0.9);
+}
+/**
+ * ===============================
+ *   Defult Button Style
+ * ===============================
+ */
+.btn.btn-fill {
+  background-color: #9de6e8;
+  border-color: #9de6e8;
+}
+.btn.btn-fill:hover {
+  background-color: #5fd6d9 !important;
+  border-color: #5fd6d9 !important;
+}
+.btn.btn-border {
+  border-color: #9de6e8;
+}
+.btn.btn-border:hover {
+  background-color: #9de6e8;
+}
+.btn-text-link a {
+  color: #9de6e8;
+}
+.btn-text-link a:hover {
+  color: #5fd6d9 !important;
+}
+/**
+ * =============================
+ * Form Defult Style
+ * =============================
+ */
+.single-form .input-group .btn:hover {
+  background-color: #5fd6d9 !important;
+}
+.outer-border.single-form .input-group .btn {
+  background-color: #9de6e8;
+}
+/**
+ * ================================
+ * Navbar Style 
+ * ================================
+ */
+.header-nav {
+  /* After Fixed In Top */
+}
+.header-nav.navbar-home .nav li .btn {
+  background-color: #9de6e8;
+}
+.header-nav.navbar-home .nav li .btn:hover {
+  background-color: #5fd6d9 !important;
+  border-color: #5fd6d9 !important;
+}
+/**
+ * ================================
+ * Header Contant Style
+ * ================================
+ */
+/*  Header Contant Style  */
+/*  ====================  */
+.header-body .header-contant-left .single-form .input-group .form-control {
+  color: #9de6e8;
+}
+.header-body .header-contant-left .single-form .input-group .form-control::-webkit-input-placeholder {
+  color: rgba(157, 230, 232, 0.8) !important;
+}
+.header-body .header-contant-left .single-form .input-group .form-control:-moz-placeholder {
+  color: rgba(157, 230, 232, 0.8) !important;
+}
+.header-body .header-contant-left .single-form .input-group .form-control::-moz-placeholder {
+  color: rgba(157, 230, 232, 0.8) !important;
+}
+.header-body .header-contant-left .single-form .input-group .form-control:-ms-input-placeholder {
+  color: rgba(157, 230, 232, 0.8) !important;
+}
+.header-body .header-contant-left .single-form .input-group .form-control:hover {
+  color: #9de6e8 !important;
+}
+/**
+ * =========================
+ * Sponsors Section
+ * =========================
+ */
+.sponsors {
+  background-color: #f3f4ef;
+}
+/**
+ * ==========================
+ * Features Defult Style
+ * ==========================
+ */
+/* Features Defult Style */
+.features .each-item .fa {
+  color: #9de6e8;
+}
+.features-hover .each-item:hover .fa {
+  background-color: #9de6e8;
+}
+/**
+ * =============================
+ * EASY FEATURES AVAILABLE 
+ * =============================
+ */
+.easy-features-available {
+  background: #ffffff;
+}
+/**
+ * ==============================
+ * Get Our App Section
+ * ==============================
+ */
+.get-our-app-bg {
+  background-color: #ffffff;
+}
+.get-our-app .single-form .btn {
+  background-color: #9de6e8;
+}
+/**
+ * ========================================
+ * description Info Inner
+ * ========================================
+ */
+.description-info-inner ul li {
+  color: rgba(0, 0, 0, 0.9);
+}
+.description-info-inner ul li:after {
+  background-color: #9de6e8;
+}
+.description-info-inner-2 ul li {
+  color: rgba(0, 0, 0, 0.9);
+}
+.description-info-inner-2 ul li:before {
+  color: #9de6e8;
+}
+.description-info-inner-2 ul li:hover:before {
+  background-color: #9de6e8;
+}
+/**
+ * ======================
+ * Pricing Table Section 
+ * ======================
+ */
+.pricing-table {
+  background-color: #f3f4ef;
+}
+.table-single {
+  border-color: rgba(0, 0, 0, 0.12);
+}
+.table-single .important {
+  background-color: #9de6e8;
+}
+.table-single .important:after {
+  border-top: 38px solid #9de6e8;
+}
+.table-single .meta-price {
+  color: #000000;
+}
+.table-single .meta-price .rate:after {
+  border-color: rgba(0, 0, 0, 0.12);
+}
+.table-single .button .btn {
+  border-color: rgba(0, 0, 0, 0.12);
+  color: #000000;
+}
+.table-single:hover .meta-price .rate {
+  background-color: #9de6e8;
+}
+.table-single:hover .button .btn {
+  border-color: #9de6e8;
+  background-color: #9de6e8;
+}
+/**
+ * ====================================
+ * Newsletter Form Style
+ * ====================================
+ */
+.subscribe-newsletter {
+  background-color: #9de6e8;
+}
+.subscribe-newsletter .input-group .form-control:hover,
+.subscribe-newsletter .input-group .btn:hover {
+  color: #9de6e8;
+}
+.subscribe-newsletter .input-group .btn:hover {
+  background-color: #171719 !important;
+}
+/**
+ * ===============================
+ * Subscription and contact  "MESSAGE"
+ * ===============================
+ */
+.subscription-success,
+.subscription-failed {
+  color: rgba(0, 0, 0, 0.8) !important;
+}
+/**
+ * ======================
+ * Team Section
+ * ======================
+ */
+.team {
+  background-color: #ffffff;
+}
+.team .team-contant .each-member .member-detail .name {
+  color: rgba(0, 0, 0, 0.9);
+}
+.team .team-contant .each-member .member-detail .detail {
+  color: rgba(0, 0, 0, 0.8);
+}
+/**
+ * =========================================
+ * Image Gallery Section
+ * =========================================
+ */
+.image-gallery {
+  background-color: #ffffff;
+}
+.image-gallery #slider .owl-page span {
+  border: 1px solid #9de6e8 !important;
+}
+.image-gallery #slider .owl-page.active span {
+  background-color: #9de6e8 !important;
+}
+/**
+ * =========================================
+ * Download Section
+ * =========================================
+ */
+.download {
+  background-color: #ffffff;
+}
+.download .button-group .btn {
+  background-color: #9de6e8;
+}
+/**
+ * ===========================
+ * Footer Section 
+ * ===========================
+ */
+.footer {
+  background-color: #18181c;
+}
+.footer .copyright p {
+  color: rgba(255, 255, 255, 0.9);
+}
+.footer .copyright p a {
+  color: #9de6e8;
+}
+.footer .copyright p a:hover {
+  color: #5fd6d9 !important;
+}
+.social-icon ul li a {
+  color: #18181c;
+}
+/**
+ * ================================
+ * Some Features Section
+ * ================================
+ */
+.some-feature-background {
+  background-color: #ffffff;
+}
+.some-feature .section-header .section-heading {
+  color: rgba(255, 255, 255, 0.9);
+}
+.some-feature .section-header p {
+  color: rgba(255, 255, 255, 0.9);
+}
+.some-feature .features .detail h4 {
+  color: #9de6e8;
+}
+.some-feature .features .detail p {
+  color: rgba(255, 255, 255, 0.9);
+}
+/**
+ * =============================
+ * Client's Feedback Section
+ * =============================
+ */
+.client-feedback {
+  background-color: #ffffff;
+}
+.client-feedback-contant .each-item figure {
+  border-color: rgba(0, 0, 0, 0.12);
+}
+.client-feedback-contant .each-item .quote-sym .fa {
+  color: rgba(0, 0, 0, 0.15);
+}
+.client-feedback-contant .each-item blockquote {
+  color: rgba(0, 0, 0, 0.9);
+}
+.client-feedback-contant .each-item .rating li .fa {
+  color: #9de6e8;
+}
+.client-feedback-contant .each-item figcaption img {
+  border-color: rgba(0, 0, 0, 0.12);
+}
+.client-feedback-contant .each-item figcaption .name {
+  color: rgba(0, 0, 0, 0.8);
+}
+.client-feedback-contant .each-item figcaption cite {
+  color: #9de6e8;
+}
+/**
+ * =========================
+ * Free Trial Section
+ * =========================
+ */
+.free-trial-bg {
+  background-color: #ffffff;
+}
+.free-trial .section-header .section-heading {
+  color: rgba(255, 255, 255, 0.9);
+}
+.free-trial .section-header p {
+  color: rgba(255, 255, 255, 0.9);
+}
+/**
+ * =========================
+ * Contact Us
+ * =========================
+ */
+.contact-us {
+  background-color: #f3f4ef;
+}
+.contact-us .contact-us-body .btn {
+  color: #9de6e8;
+}
+/**
+ * =========================================
+ * Collapse CSS
+ * =========================================
+ */
+.collapse-area {
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  /**
+     * ================================
+     * Navbar Style 
+     * ================================
+     */
+  .header-nav .navbar-collapse.in {
+    border-top-color: rgba(157, 230, 232, 0.9);
+  }
+}
